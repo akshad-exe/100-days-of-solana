@@ -1,0 +1,13 @@
+{
+  "name": "day-02-persistent-wallet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Day 2: Create and manage a persistent Solana wallet",
+  "main": "persistent-wallet.mjs",
+  "scripts": {
+    "start": "node persistent-wallet.mjs"
+  },
+  "dependencies": {
+    "@solana/kit": "latest"
+  }
+}
