@@ -1,0 +1,10 @@
+{
+  "name": "day-03-sol-lamports",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Day 3: Understand SOL and Lamports",
+  "main": "sol-lamport-converter.mjs",
+  "scripts": {
+    "start": "node sol-lamport-converter.mjs"
+  }
+}
